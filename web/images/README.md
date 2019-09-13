@@ -1,0 +1,1 @@
+In this folder images must be placed
